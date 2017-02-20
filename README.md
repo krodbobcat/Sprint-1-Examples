@@ -5,7 +5,7 @@ Topics covered are Python syntax, String and Console Output, Conditionals and Co
 Below are various examples of what I learned on codeacademy.com
 """
 
-# Example of a variable
+#Example of a variable
 variable_example = "example"
 
 #Example of variable output
